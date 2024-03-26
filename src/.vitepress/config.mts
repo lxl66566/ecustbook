@@ -3,6 +3,7 @@ import { generateSidebar } from "vitepress-sidebar";
 
 export default defineConfig({
 	title: "MyEcustBook",
+	base: "/ecustbook/",
 	description: "My personal book for ecust people.",
 	lang: "zh-CN",
 	themeConfig: {
@@ -12,7 +13,6 @@ export default defineConfig({
 			{ text: "校园生活", link: "/life/index" },
 			{ text: "信息板块", link: "/infomation" },
 		],
-
 		sidebar: generateSidebar({
 			documentRootPath: "src",
 			useTitleFromFileHeading: true,
@@ -21,17 +21,6 @@ export default defineConfig({
 			sortMenusByFrontmatterOrder: true,
 			excludeFilesByFrontmatter: true,
 		}),
-
-		// sidebar: [
-		// 	{
-		// 		text: "Examples",
-		// 		items: [
-		// 			{ text: "Markdown Examples", link: "/markdown-examples" },
-		// 			{ text: "Runtime API Examples", link: "/api-examples" },
-		// 		],
-		// 	},
-		// ],
-
 		socialLinks: [
 			{ icon: "github", link: "https://github.com/lxl66566/ecustbook" },
 		],
@@ -55,5 +44,8 @@ export default defineConfig({
 			lazyLoading: true,
 		},
 		lineNumbers: true,
+	},
+	sitemap: {
+		hostname: "https://lxl66566.github.io/ecustbook",
 	},
 });

@@ -27,7 +27,7 @@ span,
 span a,
 a span,
 span a.new {
-  background-color: #404040;
+  background-color: #404040 !important;
   color: #404040;
   text-shadow: none;
 }
