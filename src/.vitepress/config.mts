@@ -6,6 +6,23 @@ export default defineConfig({
 	base: "/ecustbook/",
 	description: "My personal book for ecust people.",
 	lang: "zh-CN",
+	head: [
+		[
+			"script",
+			{
+				async: "",
+				src: "https://www.googletagmanager.com/gtag/js?id=G-VG6NNCGH6R",
+			},
+		],
+		[
+			"script",
+			{},
+			`window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-VG6NNCGH6R');`,
+		],
+	],
 	themeConfig: {
 		nav: [
 			{ text: "关于本书", link: "/about" },
