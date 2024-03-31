@@ -44,9 +44,9 @@ const data=[
   {
     name: "袁伟娜",
     course: "通信原理",
-    score: 1.2,
+    score: 1.7,
     badge: ["提问"],
-    evaluation: "",
+    evaluation: "平时分与作业正确率无关",
     contact: "wnyuan@ecust.edu.cn"
   },
   {
