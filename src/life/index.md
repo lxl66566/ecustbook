@@ -7,3 +7,5 @@
 ## [在寝室](./in_dorm.md)
 
 ## [就诊](./hospital.md)
+
+## [搞钱](./money.md)
