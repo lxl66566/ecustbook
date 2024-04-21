@@ -39,7 +39,7 @@ features:
   - title: 本科教务处 RSS
     details: 不怕错过教务消息。
     icon: 📰
-    link: https://docs.rsshub.app/zh/routes/university#%E6%9C%AC%E7%A7%91%E6%95%99%E5%8A%A1%E5%A4%84%E4%BF%A1%E6%81%AF%E7%BD%91
+    link: https://docs.rsshub.app/zh/routes/university#本科教务处信息网
 ---
 
 <br/>
