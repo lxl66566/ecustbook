@@ -2,6 +2,8 @@
 
 为了避免人身攻击的指控，我对部分信息进行了一些微小的处理。有至少两个方法能看到原文，懂的都懂，我在这里不过多解释。
 
+我对部分教过我的教师具有一定刻板印象（至少两人以上的共性才形成的印象）：教物理的温和善良；教计算机的谦逊；教通信基础课的有干劲；教电子系应用课的不可一世。
+
 <table>
   <thead>
     <tr>
@@ -35,34 +37,42 @@ import { encode } from 'js-base64';
 import dtlslong from '../.vitepress/theme/dtlslong.vue';
 const data=[
   {
+    name: "常青",
+    course: "图像处理",
+    score: 3,
+    evaluation: "教学负责",
+    contact: ""
+  },
+  {
     name: "罗小娟",
     course: "操作系统",
-    score: 4,
-    evaluation: "平等，活跃；教学质量一般",
+    badge: ["个人展示"],
+    score: 2.4,
+    evaluation: "平等，教学较活跃；教学质量一般；所有同学都需要做 PPT 上台演讲，给压力。",
     contact: "luoxj@ecust.edu.cn 徐汇 19 817"
   },
   {
     name: "袁伟娜",
     course: "通信原理",
-    score: 1.7,
-    badge: ["提问"],
-    evaluation: "平时分与作业正确率无关",
+    score: 3,
+    badge: ["课堂测验"],
+    evaluation: "平时分与作业正确率无关；缺乏主见；较温和",
     contact: "wnyuan@ecust.edu.cn"
   },
   {
     name: "叶炯耀",
     course: "集成电路",
-    score: 2,
-    badge: ["提问", "废话多"],
-    evaluation: "爱聊天，有点经验但不多",
+    score: 0.5,
+    badge: ["提问", "废话多", "不教学"],
+    evaluation: "上课全聊天，吹嘘自己经验丰富；上课不讲实验",
     contact: "Q:1194678751 V:shkevino912"
   },
   {
     name: "李钰",
-    course: "电磁场",
-    score: 2,
-    badge: ["提问", "限座位","温和"],
-    evaluation: "最喜欢提问后排同学",
+    course: "电磁波",
+    score: 7,
+    badge: ["提问", "限座位", "温和"],
+    evaluation: "喜欢点名、提问后排同学；实验做完不留人",
     contact: "liyu@ecust.edu.cn"
   },
   {
@@ -82,7 +92,7 @@ const data=[
   {
     name: "万永菁",
     course: "DSP",
-    score: 8.0,
+    score: 7.2,
     evaluation: "线上下结合，课前给所有学生打印教学计划和作业；但是作业过多",
     contact: "13817781630 Q:2447131015 V:ecust_wyj wanyongjing@ecust.ecu.cn"
   },
