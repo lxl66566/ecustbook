@@ -4,6 +4,7 @@
 
 - 邮寄地址：上海市奉贤区海思路 999 号华东理工大学奉贤校区
 - 在线打印：微信小程序搜索 `萌蚤云印` or <http://store.mzyunyin.com/a/index?store_id=971>
+- 进入学习平台的~~不一样的链接~~：`https://s.ecust.edu.cn/simpleportal/mh`
 - 超星学习通下载直链：`http://cs.e.ecust.edu.cn/download/[objectID]`
 - 上传大文件（转自 CIC，未验证）：
   ```sh
