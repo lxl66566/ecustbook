@@ -2,8 +2,10 @@
 
 <text style="color:red;">紧急情况：校医院 奉贤 33612123 徐汇 64252637</text>
 
-- 邮寄地址：上海市奉贤区海思路 999 号华东理工大学奉贤校区
-- 在线打印：微信小程序搜索 `萌蚤云印` or <http://store.mzyunyin.com/a/index?store_id=971>
+- 邮寄地址：
+  - 奉贤：上海市奉贤区海思路 999 号，邮政编码: 201418
+  - 徐汇：上海市徐汇区梅陇路 130 号，邮政编码: 200231
+- 在线打印（奉贤 only）：微信小程序搜索 `萌蚤云印` or <http://store.mzyunyin.com/a/index?store_id=971>
 - 进入学习平台的~~不一样的链接~~：`https://s.ecust.edu.cn/simpleportal/mh`
 - 超星学习通下载直链：`http://cs.e.ecust.edu.cn/download/[objectID]`
 - 上传大文件（转自 CIC，未验证）：
