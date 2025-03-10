@@ -55,10 +55,11 @@ export default hopeTheme({
     },
     comment: {
       provider: "Giscus",
-      repo: "lxl66566/lxl66566.github.io",
-      repoId: "R_kgDOHRyDvA",
+      repo: "lxl66566/ecustbook",
+      repoId: "R_kgDOLle5Lg",
       category: "General",
-      categoryId: "DIC_kwDOHRyDvM4CQSP1",
+      categoryId: "DIC_kwDOLle5Ls4CnxY2",
+      strict: true,
       mapping: "pathname",
       lightTheme: "light",
       darkTheme: "transparent_dark",
@@ -67,6 +68,8 @@ export default hopeTheme({
       rss: true,
       count: 20,
     },
-    slimsearch: true,
+    slimsearch: {
+      indexContent: true,
+    },
   },
 });

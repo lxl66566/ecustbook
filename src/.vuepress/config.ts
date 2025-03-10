@@ -4,7 +4,7 @@ import theme from "./theme.js";
 
 const __dirname = getDirname(import.meta.url);
 const temp = defineUserConfig({
-  title: "MyEcustBook",
+  title: "AbsoluteX's ECUSTBook",
   base: "/ecustbook/",
   description: "My personal book for ecust people.",
   lang: "zh-CN",
