@@ -1,5 +1,7 @@
 # 校园生活
 
+[信息办官方文档](https://xxb.ecust.edu.cn/jbzs/list.htm)
+
 ## [校内外总览](./college_space.md)
 
 ## [吃（奉贤篇）](./eat.md)

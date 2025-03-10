@@ -1,3 +1,8 @@
-node_modules
-src/.vitepress/cache
-src/.vitepress/dist
+node_modules/
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/
+# upload.sh
+# .github/
+/.history
+/test*.*
