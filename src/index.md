@@ -27,6 +27,10 @@ projects:
     desc: 拒绝一切不透明操作。
     icon: bolt
     link: https://github.com/lxl66566/ecust-electricity-statistics
+  - name: my-college-files
+    desc: 华理信息工程专业资料全收集
+    icon: boxes-stacked
+    link: https://github.com/lxl66566/my-college-files
   - name: 本科教务处 RSS
     desc: 不怕错过教务消息。
     icon: rss
@@ -36,6 +40,8 @@ projects:
 <br/>
 
 之前我将学校相关的内容写在[个人博客](https://absx.pages.dev/)，现将其分离为单独项目。
+
+本书原本的目的应该是类似于 wiki 的信息集合，不过现在已逐渐成为我个人的大学生活回忆录。大家就当成回忆录来看就好了。
 
 ## QA
 
