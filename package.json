@@ -12,16 +12,16 @@
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.20",
-    "@vuepress/plugin-feed": "2.0.0-rc.82",
-    "@vuepress/plugin-pwa": "2.0.0-rc.82",
-    "@vuepress/plugin-slimsearch": "2.0.0-rc.82",
+    "@vuepress/plugin-feed": "2.0.0-rc.92",
+    "@vuepress/plugin-slimsearch": "2.0.0-rc.92",
     "js-base64": "^3.7.7",
-    "katex": "0.16.21",
-    "mermaid": "11.4.1",
-    "typescript": "5.8.2",
+    "katex": "0.16.22",
+    "mermaid": "11.6.0",
+    "sass-embedded": "^1.86.3",
+    "typescript": "5.8.3",
     "vue": "3.5.13",
     "vuepress": "2.0.0-rc.20",
-    "vuepress-theme-hope": "2.0.0-rc.74"
+    "vuepress-theme-hope": "2.0.0-rc.79"
   },
   "pnpm": {
     "overrides": {
